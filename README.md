@@ -19,6 +19,5 @@ When booting from a live operational system, clone this repo to quickly config y
 # installstuff command
 The install stuff command will install:
 - Git [done]
-- Sublime Text 
+- Sublime Text [done]
 - Python3
-- Vim [done]
