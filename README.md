@@ -6,7 +6,8 @@ This contains my config for a live Parrot OS image.
 When booting from a live operational system, clone this repo to quickly config your environment.
 > git clone https://github.com/apocanhoto/ParrotOS.git ~/Documents/Parrot
 
-> sh iniciate.bash
+> sudo ./iniciate.bash
+
 # To Do
 - Update how to use this repo
 - .bashrc file containing aliases [done]

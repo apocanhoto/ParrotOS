@@ -3,8 +3,8 @@
 #############################
 # .bashrc config file		#
 #############################
-cp -f ./.newbashrc ~.bashrc
-
+cp ./newbashrc ~/.bashrc
+source ~/.bashrc
 
 #############################
 # install stuff script		#
