@@ -14,15 +14,7 @@ fi
 #Install Thingys	   #
 ########################
 
-# Vim
-
-apt-get install -y vim
-
-#Git
-
-apt-get install -y git
-
-#Sublime Text
+# Sublime Text
 
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 apt-get install -y apt-transport-https
@@ -31,8 +23,8 @@ apt-get update -y
 apt-get install sublime-text
 
 
+# pip3
 
-
-
+apt-get install -y python3-pip
 
 
