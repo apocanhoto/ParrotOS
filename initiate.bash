@@ -4,7 +4,7 @@
 # .bashrc config file		#
 #############################
 cp ./newbashrc ~/.bashrc
-source ~/.bashrc
+exec ~/.bashrc
 
 #############################
 # install stuff script		#
