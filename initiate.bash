@@ -14,15 +14,15 @@ fi
 # .bashrc config file		#
 #############################
 
-cp ./newbashrc ~/.bashrc
-exec ~/.bashrc
+sudo cp ./newbashrc ~/.bashrc
+sudo source ~/.bashrc
 
 #############################
 # install stuff script		#
 #############################
 
 chmod +x installstuff.bash
-./installstuff.bash
+sudo ./installstuff.bash
 
 
 
